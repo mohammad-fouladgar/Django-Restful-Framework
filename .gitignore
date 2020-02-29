@@ -1,2 +1,10 @@
+# visual studio code
 .vscode
-env
+
+# virtualenv
+venv/
+ENV/
+env/
+
+# SQLite3
+db.sqlite3
